@@ -53,7 +53,6 @@ const members = [
 members.forEach((member) => {
     member.define();
 });
-
 // Joe (simple): 50
 // Bob (premium): 500
 // Kamilla (standard): 150
